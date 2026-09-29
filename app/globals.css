@@ -1,0 +1,56 @@
+@import "tailwindcss";
+
+:root {
+  --page-padding: 24px;
+  --content-max-width: 430px;
+}
+
+.page-container {
+  width: 100%;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-left: var(--page-padding);
+  padding-right: var(--page-padding);
+}
+
+@media (min-width: 768px) {
+  :root {
+    --page-padding: 40px;
+    --content-max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --page-padding: 64px;
+    --content-max-width: 1024px;
+  }
+}
+@import "tailwindcss";
+
+:root {
+  --page-padding: 24px;
+  --content-max-width: 430px;
+}
+
+.page-container {
+  width: 100%;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding-left: var(--page-padding);
+  padding-right: var(--page-padding);
+}
+
+@media (min-width: 768px) {
+  :root {
+    --page-padding: 40px;
+    --content-max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --page-padding: 64px;
+    --content-max-width: 1024px;
+  }
+}
