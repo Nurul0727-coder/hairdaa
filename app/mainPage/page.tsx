@@ -1,24 +1,3 @@
-// export default function BirthdayIntro() {
-//   return (
-//     <main
-//       className="min-h-screen flex items-center justify-center px-6 text-[#f5f1ea]
-//       "
-//       style={{
-//         backgroundImage: "url('/image/bg5.jpeg')",
-//       }}
-//     >
-//       <section className="text-center w-[740px] h-[550px] ">
-//         <div className="w-[1140px] pl-[150px] pt-[120px]">
-//           <img
-//             src="/image/booth2.png"
-//             alt="birthday memory"
-//             className="mt-4 h-56 w-full rounded-3xl object-cover  "
-//           />
-//         </div>
-//       </section>
-//     </main>
-//   );
-// }
 "use client";
 
 import MainGrid from "../mainGrid/page";

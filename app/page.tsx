@@ -1,18 +1,3 @@
-// import MemoriesPage from "./memoriesPage/page";
-// import MainPage from "./mainPage/page";
-// import MainGrid from "./mainGrid/page";
-// import BirthdayIntro from "./mainPage/page";
-
-// export default function Home() {
-//   return (
-//     <main>
-//       <MemoriesPage />
-//       <MainPage />
-//       <MainGrid />
-//       <BirthdayIntro />
-//     </main>
-//   );
-// }
 "use client";
 
 import { useState } from "react";
